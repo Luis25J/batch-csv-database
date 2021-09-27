@@ -1,0 +1,7 @@
+com\inai\denue\BatchApplication.class
+com\inai\denue\batch\DenueProcessor.class
+com\inai\denue\batch\DenueWriter.class
+com\inai\denue\batch\DenueBatchRun.class
+com\inai\denue\repository\DenueRepository.class
+com\inai\denue\entity\Denue.class
+com\inai\denue\configuration\DenueBatchConfiguration.class
